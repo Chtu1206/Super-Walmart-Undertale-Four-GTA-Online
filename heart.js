@@ -37,4 +37,3 @@ function drawHeart() {
   if (keyIsDown("a")) heartX -= heartSpeed;
   if (keyIsDown("d")) heartX += heartSpeed;
 }
-}
